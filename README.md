@@ -5,7 +5,7 @@
 ## setup
 
 ```js
-git clone https://github.com/nasa8x/node-genesis-block.git genesis-block
+git clone https://github.com/Al3xxx19/node-genesis-block.git genesis-block
 cd genesis-block
 npm install
 ```
